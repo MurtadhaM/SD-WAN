@@ -25,6 +25,12 @@ Because of its capacity to route across several provider networks and give netwo
 
 ``SD-WAN is not a well known technology in the research community because of the lack of resources and the high cost of implementation.``
 
+
+- **SD-WAN**: Cost of Implementation
+- **SD-WAN**: High Skill Requirements for Implementation
+- **SD-WAN**: Lack of Resources for Research and Development
+
+
 ### Problem Description
 - SD-WAN implementation skill barrier is high.
 
