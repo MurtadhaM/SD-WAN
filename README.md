@@ -1,5 +1,5 @@
 ### <p align="center"> **SD-WAN**
-Key Questions & Research Notes
+### Key Questions & Research Notes
  </p> 
 
 ---
@@ -9,10 +9,11 @@ Key Questions & Research Notes
 
 ---
 
-### <p align="center"> **Table of Contents**
+### <p align="center"> **Table of Contents** 
+### ![](https://img.shields.io/badge/Table%20of%20Contents-List-blue)
+
  </p> 
 
-![](https://img.shields.io/badge/Table%20of%20Contents-List-blue)
 
 - [SD-WAN: Overview](#1-what-is-sd-wan)
 - [Research Obstacles](#2-what-are-the-obstacles-to-sd-wan-academic-research--development)
