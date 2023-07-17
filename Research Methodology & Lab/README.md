@@ -1,7 +1,5 @@
-## SD-WAN: Home Networks & Small Businesses
+#### SD-WAN: Physical Lab Implementation
 ---
-
-<img src="Logo.png">
 
 
 
