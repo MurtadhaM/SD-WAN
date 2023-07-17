@@ -12,8 +12,7 @@
 ### <p align="center"> **Table of Contents** 
  </p>  -->
 
-#### <p align="center"> 
-<img src="https://img.shields.io/badge/Table%20of%20Contents-List-blue" width=300px>
+#### <p align="center"> <img src="https://img.shields.io/badge/Table%20of%20Contents-List-blue" width=200px>
  </p>
 
 
