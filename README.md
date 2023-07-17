@@ -1,7 +1,12 @@
-## SD-WAN: Key Concepts & Obstacles to Research & Development
+### <p align="center"> **SD-WAN** </p>
+Key Questions & Research Notes 
 ---
 
-<img src="Logo.png">
+
+<p align="center">
+    <img src="Logo.png" width=200px>
+</p>
+
 
 
 ### Table of Contents
