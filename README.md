@@ -14,6 +14,7 @@
 
 #### <p align="center"> <img src="https://img.shields.io/badge/Table%20of%20Contents-List-blue" width=200px>
  </p>
+ ---
 
 
 - [SD-WAN: Overview](#1-what-is-sd-wan)
@@ -22,11 +23,12 @@
 - [Research Lab Options](#4-how-can-sd-wan-be-tested-in-a-lab-environment)
 
 ---
+#### <p align="center"> <img src="https://img.shields.io/badge/What%20IS%20SD--WAN-Question-Yellow" width=200px>
+ </p>
 
-### 1. What Is SD-WAN?
----
-![](https://img.shields.io/badge/SD--WAN-Definition-blue)
-<p>
+ ---
+
+<p align="center">
 <a href="SD-WAN Overview/">
 SD-WAN: Background and Overview</a>
 </p>
