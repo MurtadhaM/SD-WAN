@@ -9,8 +9,7 @@ Key Questions & Research Notes
 
 ---
 
-### <p align="center">
-**Table of Contents**
+### <p align="center"> **Table of Contents**
  </p> 
 
 ![](https://img.shields.io/badge/Table%20of%20Contents-List-blue)
