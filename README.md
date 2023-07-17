@@ -10,9 +10,10 @@
 ---
 
 ### <p align="center"> **Table of Contents** 
-### ![](https://img.shields.io/badge/Table%20of%20Contents-List-blue)
-
  </p> 
+
+#### <p align="center"> ![](https://img.shields.io/badge/Table%20of%20Contents-List-blue)
+ </p>
 
 
 - [SD-WAN: Overview](#1-what-is-sd-wan)
