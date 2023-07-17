@@ -8,11 +8,12 @@
 </p>
 
 ---
-
+<!-- 
 ### <p align="center"> **Table of Contents** 
- </p> 
+ </p>  -->
 
-#### <p align="center"> ![](https://img.shields.io/badge/Table%20of%20Contents-List-blue)
+#### <p align="center"> 
+<img src="https://img.shields.io/badge/Table%20of%20Contents-List-blue" width=300px>
  </p>
 
 
