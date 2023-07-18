@@ -40,7 +40,7 @@
       </td>
       <td>
         <a href="">
-          <img src="Param.jpg" alt="Param" width="384"/>
+          <img src="./Param.png" alt="Param" width="384"/>
         </a>
       </td>
       <td>
