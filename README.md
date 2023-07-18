@@ -21,7 +21,7 @@
   <thead allign=center>
     <tr>
       <th align=center > <img src="https://img.shields.io/badge/-Murtadha Marzouq-red" href="findasnake.com" width="100%"/></th>
-      <th align=center><img src="https://img.shields.io/badge/-Ryan Hull-orange" width="100%"/></th>
+      <th align=center><img src="https://img.shields.io/badge/-Ryan Hull-orange" width="50%"/></th>
       <th align=center><img src="https://img.shields.io/badge/-Param Patel-yellow" width="100%"/>  </th>
       <th align=center><img src="https://img.shields.io/badge/-Claire Ardern-green" width="100%"/> </th>
     </tr>
