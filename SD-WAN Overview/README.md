@@ -69,17 +69,39 @@ SD-WAN is a relatively new technology, and as such, it is still evolving. There 
 
 
 
+<table center>
+  <thead allign=center>
+    <tr>
+      <th align=center > <img src="https://img.shields.io/badge/-Murtadha Marzouq-red" href="findasnake.com" width="100%"/></th>
+      <th align=center><img src="https://img.shields.io/badge/-Ryan Hull-orange" width="75%"/></th>
+      <th align=center><img src="https://img.shields.io/badge/-Param Patel-yellow" width="75%"/>  </th>
+      <th align=center><img src="https://img.shields.io/badge/-Claire Ardern-green" width="75%"/> </th>
+    </tr>
+  </thead>
+  <tbody >
+    <tr>
+      <td>
+        <a href="">
+          <img src="https://avatars.githubusercontent.com/u/45076915?s=200&v=4"  alt="Murtadha Marzouq" width="384" />
+        </a>
+      </td>
+      <td>
+        <a href="">
+          <img src="https://capstone-front-end-lime.vercel.app/_next/image?url=%2FTeamPhotos%2FRyan_Hull.jpeg&w=384&q=75" alt="Ryan Hull" width="384"/>
+        </a>
+      </td>
+      <td>
+        <a href="">
+          <img src="https://png.pngtree.com/png-vector/20220807/ourmid/pngtree-man-avatar-wearing-gray-suit-png-image_6102786.png" alt="Param" width="384"/>
+        </a>
+      </td>
+      <td>
+        <a href="">
+          <img src="../Clair.png" alt="Clair" width="384"/>
+        </a>
+      </td>
+  
 
-![](https://img.shields.io/badge/Author-Credit-orange)
----
-### Murtadha Marzouq
-![Murtadha Marzouq](https://avatars.githubusercontent.com/u/45076915?s=200&v=4)
 
-
-### Sources:
-- https://www.fortinet.com/resources/cyberglossary/sd-wan.html
-- https://www.sdxcentral.com/sd-wan/definitions/what-is-sd-wan/
-- https://assets.ctfassets.net/wivd9zt8fi3t/5GWNpMjO5hoF24fO9oZzHQ/725e16a6e17912211495a2e795126bd3/Wide_Area_Networking_Pricing_Guide_vF.pdf
-------
-
-
+  </tbody>
+</table>
