@@ -145,7 +145,7 @@ Fortigate Test Drive Manual</a>
       </td>
       <td>
         <a href="">
-          <img src="https://png.pngtree.com/png-vector/20220807/ourmid/pngtree-man-avatar-wearing-gray-suit-png-image_6102786.png" alt="Param" width="384"/>
+          <img src="../Param.png" alt="Param" width="384"/>
         </a>
       </td>
       <td>
